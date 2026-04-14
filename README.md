@@ -26,7 +26,7 @@ Integrations
 └── README.md
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/dev-tools-research-agent.git
+git clone https://github.com/Pranshu-cyber/Development-Tools-Scraper.git
 cd dev-tools-research-agent
 2. Create a virtual environment (recommended)
 python -m venv venv
